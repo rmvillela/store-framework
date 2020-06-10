@@ -4,8 +4,7 @@
       "rich-text",
       "info-card#button-right",
       "info-card#button-left",
-      "flex-layout.row",
-      "flex-layout.col"
+      "flex-layout.row"
     ]
   },
   "rich-text": {
@@ -47,6 +46,16 @@
       "info-card#rethink",
       "flex-layout.col"
     ]
+  },
+  
+ "info-card#rethink": {
+    "props": {
+      "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/utensilios-cozinha-min.png",
+      "isFullModeStyle": true,
+      "headline": "Time to rethink your kitchen",
+      "callToActionText": "Discover",
+      "textPosition": "center"
+    }
   },
   "flex-layout.col": {
     "children": [
